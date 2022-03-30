@@ -1,0 +1,2 @@
+# symorfose
+Optimized Gaming Mode
